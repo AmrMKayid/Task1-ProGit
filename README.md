@@ -9,3 +9,9 @@ This repo is made for the first Task of my Software Engineering Project, it cont
 ### Acknowledgments:
 (book Chacon, Scott, and Ben Straub. Pro Git. Apress, 2014.)
 
+## Workflow:
+
+First Pic                  |  Second Pic
+:-------------------------:|:-------------------------:
+![](pic1.png)              |  ![](pic2.png)
+
