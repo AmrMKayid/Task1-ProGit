@@ -1,0 +1,29 @@
+  497  git init
+  498  vim section1-1.txt
+  499  vim section3-1.txt
+  500  vim section5-1.txt
+  501  ls
+  502  git add section1-1.txt 
+  503  git add section3-1.txt 
+  504  git add section5-1.txt 
+  505  git rm section3-1.txt
+  506  git rm --cached section3-1.txt
+  507  git status
+  508  git add section3-1.txt
+  509  git commit -m "Added three files containing sections from ProGit"
+  510  git status
+  511  git lg
+  512  git remote add origin https://github.com/AmrMKayid/Task1-ProGit.git
+  513  git push -u origin master
+  514  git push -u origin master
+  515  vim README.md
+  516  git checkout -b ReadMe
+  517  git add README.md
+  518  git commit -m "Created README file"
+  519  git checkout master 
+  520  git merge ReadMe 
+  521  git status
+  522  git add AllMyCommands.txt
+  523  git commit -m "Added AllMyCommands.txt"
+  524  git push
+  525  history
