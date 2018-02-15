@@ -27,3 +27,9 @@
   523  git commit -m "Added AllMyCommands.txt"
   524  git push
   525  history
+=====================================================================
+
+alternative way to remove the file:
+
+rm section3-1.txt
+git reset --hard
