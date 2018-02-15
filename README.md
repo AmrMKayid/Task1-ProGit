@@ -7,7 +7,7 @@ This repo is made for the first Task of my Software Engineering Project, it cont
 * **Amr M. Kayid** - [AmrMKayid](https://github.com/AmrMKayid) | 37-15594
 
 ### Acknowledgments:
-(book Chacon, Scott, and Ben Straub. Pro Git. Apress, 2014.)
+[book Chacon, Scott, and Ben Straub. Pro Git. Apress, 2014.](https://git-scm.com/book/en/v2)
 
 ## Workflow:
 
